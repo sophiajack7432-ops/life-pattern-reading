@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Build artifacts
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local research/temp
+.research/
+*.log
